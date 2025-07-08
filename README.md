@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Bilal
+A full-stack web developer based in Canada 🇨🇦  
+I build scalable web apps, fix bugs in legacy code, and love clean architecture.
 
-<!--
-**Bilalzip/Bilalzip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech Stack
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
-Here are some ideas to get you started:
+## 🔧 Recent Projects
+- 💬 [DevTalk Chat App](https://github.com/yourusername/devtalk) — Real-time chat with socket.io
+- 📁 [DocHub](https://github.com/yourusername/dochub) — Document management system (Next.js + MongoDB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Bilal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+📫 Reach me: [LinkedIn](https://linkedin.com/in/your-link)
