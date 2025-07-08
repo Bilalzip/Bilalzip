@@ -19,11 +19,12 @@ A full-stack developer based in 🇨🇦 Canada. I build **scalable web applicat
 
 ## 🚀 Projects I'm Proud Of
 
-### 🔹 [GoAskPDF](https://www.goaskpdf.com)  
-**Tech:** Next.js, LangChain, Vercel AI SDK  
-> AI-powered study assistant used by 500+ students in the first month. Converts PDFs into interactive learning experiences.
+### 🔹 [The Gold Star](https://www.thegoldstar.ca)  
+**Tech:** Next.js, Prisma, PostgreSQL, React  
+> Boost your business's Google reviews – the smart way!  
+> A QR code-driven feedback platform that allows customers to submit feedback either privately or publicly — all transparent and Google-compliant.
 
-🔗 [GitHub Repo](https://github.com/Bilalzip/goask)
+🔗 [GitHub Repo (Private/Optional)](https://github.com/Bilalzip/goldstartfrontend)
 
 ---
 
@@ -32,14 +33,6 @@ A full-stack developer based in 🇨🇦 Canada. I build **scalable web applicat
 > AI-enhanced property marketplace with semantic search and user-friendly listing workflows.
 
 🔗 [GitHub Repo](https://github.com/Bilalzip/realestatewebapp)
-
----
-
-### 🔹 [CodeWithBilal](https://www.codewithbilal.com)  
-**Tech:** React, Three.js, Framer Motion  
-> Animated portfolio showcasing my 3D UI/UX and interactive design skills.
-
-🔗 [GitHub Repo](https://github.com/Bilalzip/codewithbilal)
 
 ---
 
