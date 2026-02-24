@@ -1,90 +1,68 @@
-<h1 align="center">Hi there, I'm Mohd Bilal 👋</h1>
+# 👋 Hi, I’m Mohd Bilal  
 
-<p align="center">
-<strong>A full-stack developer based in 🇨🇦 Canada.</strong>
+A full-stack developer based in 🇨🇦 Canada. I build **scalable web applications**, improve backend performance, and fix legacy code. Passionate about clean architecture, meaningful products, and solving real-world problems through code.  
 
-I build <b>scalable web applications</b>, improve backend performance, and fix legacy code. Passionate about clean architecture, meaningful products, and solving real-world problems through code.
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?logo=amazonaws)](https://www.credly.com/badges/fc4c5da3-115f-4406-9d56-28e80a7838d4)
 
-</p>
+🔗 **Verified Certification:**  
+[AWS Certified Developer – Associate (Credly)](https://www.credly.com/badges/fc4c5da3-115f-4406-9d56-28e80a7838d4)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mohd-bilal-b9a0b71a8/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a>
-<a href="https://www.codewithbilal.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Website-black%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio" /></a>
-<a href="https://www.credly.com/badges/fc4c5da3-115f-4406-9d56-28e80a7838d4"><img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS%2520Certified-Developer%2520Associate-orange%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws" alt="AWS Certified" /></a>
-</p>
+---
 
-🛠️ Tech Stack
+## 💻 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)  
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)  
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat)  
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat&logo=openai)
 
-I've worked with a variety of technologies across the stack. Here are the tools I use most frequently:
+---
 
-Frontend & Languages:
+## 🚀 Projects I'm Proud Of  
 
-Backend & Databases:
+### 🔹 [Hixbi](https://hixbi.com/)  
+**Tech:** React, Next.js, Cloudflare Workers, Stripe, Zustand, NextAuth  
 
-AI, Cloud & Auth:
+> A unified AI web app that lets users chat with multiple models — **Gemini**, **ChatGPT**, **Claude**, and **DeepSeek** — from a single interface.  
 
-🚀 Projects I'm Proud Of
+**Highlights:**  
+- Deployed globally with **Cloudflare Workers** for microservice-based low-latency responses — even faster than OpenAI.  
+- Integrated **Stripe** for secure payments and tiered token-based monetization.  
+- Built a scalable frontend with React, Next.js, and Zustand (improving UI performance by 200%).  
+- Added NextAuth authentication with role-based access control.  
+- Designed REST APIs for multiple LLMs ensuring reliability and speed.  
 
-🔹 Hixbi
+🔗 [GitHub Repo (Private)](https://github.com/Bilalzip/hixbi)
 
-A unified AI web app that lets users chat with multiple models — Gemini, ChatGPT, Claude, and DeepSeek — from a single interface.
+---
 
-Tech: React, Next.js, Cloudflare Workers, Stripe, Zustand, NextAuth
+### 🔹 [The Gold Star](https://www.thegoldstar.ca)  
+**Tech:** Next.js, Prisma, PostgreSQL, React  
 
-Highlights:
+> Boost your business's Google reviews – the smart way!  
+> A QR code-driven feedback platform allowing customers to share private or public feedback in a Google-compliant way.  
 
-Deployed globally with Cloudflare Workers for microservice-based low-latency responses — even faster than OpenAI.
+🔗 [GitHub Repo (Private/Optional)](https://github.com/Bilalzip/goldstartfrontend)
 
-Integrated Stripe for secure payments and tiered token-based monetization.
+---
 
-Built a scalable frontend with React, Next.js, and Zustand (improving UI performance by 200%).
+## 🌱 Currently Working On  
+- 🔐 Production-ready auth with NextAuth & middleware  
+- ⚙️ Scalable API systems using Fastify and TypeScript  
+- 💬 LLM-powered tools using LangChain + OpenAI  
+- ☁️ Deepening expertise in AWS (Developer Associate Certified)  
+- 🎯 Preparing for a full-time dev role by 2026  
 
-Added NextAuth authentication with role-based access control.
+---
 
-Designed REST APIs for multiple LLMs ensuring reliability and speed.
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-bilal-b9a0b71a8/)  
+[🌐 Portfolio – codewithbilal.com](https://www.codewithbilal.com)
 
-🔗 GitHub Repo (Private)
+---
 
-🔹 The Gold Star
-
-Boost your business's Google reviews – the smart way! A QR code-driven feedback platform allowing customers to share private or public feedback in a Google-compliant way.
-
-Tech: Next.js, Prisma, PostgreSQL, React
-
-Highlights:
-
-Engineered a seamless QR-code feedback loop to capture private reviews and direct positive experiences to Google Reviews.
-
-Architected a robust and type-safe backend using Next.js API routes, Prisma, and PostgreSQL.
-
-Built a responsive, accessible frontend tailored for mobile users scanning QR codes on-site.
-
-🔗 GitHub Repo (Private)
-
-📈 GitHub Stats
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DBilalzip%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D007ACC%26icon_color%3D007ACC" alt="Bilal's GitHub stats" width="48%" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DBilalzip%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D007ACC" alt="Top Languages" width="48%" />
-</div>
-
-🌱 Currently Working On
-
-🔐 Production-ready auth: Deep diving into NextAuth & middleware architectures.
-
-⚙️ Scalable API systems: Building robust backends using Fastify and TypeScript.
-
-💬 AI Engineering: Developing LLM-powered tools using LangChain + OpenAI.
-
-☁️ Cloud Infrastructure: Deepening expertise in AWS (Developer Associate Certified).
-
-🎯 Career Goal: Actively seeking a full-time Full-Stack Developer role.
-
-<div align="center">
-
-
-
-
-
-<i>“Success is not just about code. It’s about building with purpose.”</i>
-</div>
+_“Success is not just about code. It’s about building with purpose.”_
