@@ -2,11 +2,12 @@
 
 A full-stack developer based in 🇨🇦 Canada. I build **scalable web applications**, improve backend performance, and fix legacy code. Passionate about clean architecture, meaningful products, and solving real-world problems through code.  
 
-[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?logo=amazonaws)](https://www.credly.com/badges/fc4c5da3-115f-4406-9d56-28e80a7838d4)
+[![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?logo=amazonaws)](https://www.credly.com/badges/fc4c5da3-115f-4406-9d56-28e80a7838d4)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-blue?logo=amazonaws)](https://www.credly.com/earner/earned/badge/50cc526d-2b84-4e2b-8a19-1cac39598ffa)
 
-🔗 **Verified Certification:**  
-[AWS Certified Developer – Associate (Credly)](https://www.credly.com/badges/fc4c5da3-115f-4406-9d56-28e80a7838d4)
-
+🔗 **Verified Certifications:**  
+- [AWS Certified Developer – Associate (Credly)](https://www.credly.com/badges/fc4c5da3-115f-4406-9d56-28e80a7838d4)  
+- [AWS Certified Solutions Architect (Credly)](https://www.credly.com/earner/earned/badge/50cc526d-2b84-4e2b-8a19-1cac39598ffa)
 ---
 
 ## 💻 Tech Stack  
